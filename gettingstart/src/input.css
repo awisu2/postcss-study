@@ -1,0 +1,5 @@
+$c: red;
+
+:fullscreen {
+    color: $c;
+}

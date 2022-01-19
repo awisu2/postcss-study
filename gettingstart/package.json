@@ -1,0 +1,26 @@
+{
+  "name": "gettingstart",
+  "version": "1.0.0",
+  "description": "cli、webpackでのサンプルを実装してみる",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "awisu2",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss-cli": "^9.1.0",
+    "postcss-extend": "^1.0.5",
+    "postcss-import": "^14.0.2",
+    "postcss-mixins": "^9.0.1",
+    "postcss-nested": "^5.0.6",
+    "postcss-simple-vars": "^6.0.3",
+    "webpack": "^5.66.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
