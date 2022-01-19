@@ -1,5 +1,9 @@
 $c: red;
 
 :fullscreen {
-    color: $c;
+  color: $c;
+}
+
+* {
+  color: $c;
 }

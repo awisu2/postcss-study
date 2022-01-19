@@ -11,4 +11,4 @@
 ## docs
 
 - [gettingstart](./gettingstart): とりあえず触ってみる
-- [postcss.conofig.js](./docs/postcss.conofig.js.md): postcssの設定ファイルについて
+- [postcss.conofig.js](./docs/postcss.config.js.md): postcssの設定ファイルについて
