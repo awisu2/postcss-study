@@ -12,7 +12,7 @@
 - postcss.config.js を記載して pulugins に必要な拡張をセットするだけでほぼほぼ設定は完了
 - vscode などエディタでのサポート拡張もある
 
-## docs
+## ./docs
 
 - [gettingstart](./gettingstart): とりあえず触ってみる
 - [postcss.conofig.js](./docs/postcss.config.js.md): postcss の設定ファイルについて
