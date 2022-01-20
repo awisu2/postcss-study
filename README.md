@@ -17,6 +17,7 @@
 - [gettingstart](./gettingstart): とりあえず触ってみる
 - [postcss.conofig.js](./docs/postcss.config.js.md): postcss の設定ファイルについて
 - [commands](./docs/commands.md): postcss コマンドまとめ
+- [samples](./samples): いくらか実用できそうな設定集
 
 ## 推奨記事
 
