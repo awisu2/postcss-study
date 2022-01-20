@@ -31,3 +31,15 @@ module.exports = {
   }
 }
 ```
+
+*pakcage.json*
+
+```json
+{...
+  "scripts": {
+    ...
+    "dev": "postcss src/**/* -d dist -w",
+    "build": "cross-env NODE_ENV=production postcss src/**/* -d dist"
+  },
+...}
+```
