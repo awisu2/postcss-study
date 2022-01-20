@@ -14,10 +14,16 @@
 
 ## ./docs
 
+### 実例
+
 - [gettingstart](./gettingstart): とりあえず触ってみる
+- [samples](./samples): いくらか実用できそうな設定集
+
+### document
+
 - [postcss.conofig.js](./docs/postcss.config.js.md): postcss の設定ファイルについて
 - [commands](./docs/commands.md): postcss コマンドまとめ
-- [samples](./samples): いくらか実用できそうな設定集
+- [plugins](./plugins): プラグインまとめ
 
 ## 推奨記事
 
