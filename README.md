@@ -11,6 +11,7 @@
   - 最終出力は css なので、他の変換処理(loader や task)間に差し込める
 - postcss.config.js を記載して pulugins に必要な拡張をセットするだけでほぼほぼ設定は完了
 - vscode などエディタでのサポート拡張もある
+- pluginsの実行順序、配列順におこなわれる
 
 ## ./docs
 
